@@ -1,0 +1,24 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 5%;
+}
+
+h1 {
+    color:  #66bfbf;
+    font-style: oblique;
+}
+
+h3 {
+    color:  #0d7c7c;
+}
+
+a:hover {
+    color:   #66bfbf;
+}
